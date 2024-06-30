@@ -1,6 +1,6 @@
 ## Illustrates bug with `next/font` when running turbopack in a container.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). The only modifications made are to enable Turbopack and add the Dockerfile.
+This is a [Next.js](https://nextjs.org/) 14.2.4 project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), configured to use the App Router. The only modifications made are to enable Turbopack and add the Dockerfile.
 
 To reproduce, run these commands:
 
