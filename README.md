@@ -7,9 +7,6 @@ To reproduce:
 ```
 docker build -t next-font-bug .
 docker run -p 3000:3000 next-font-bug
-npm run dev
 ```
 
 <img width="1099" alt="image" src="https://github.com/jmotes/next-font-bug/assets/1943254/a906ad30-63c2-4766-a870-52899b07de0a">
-
-
